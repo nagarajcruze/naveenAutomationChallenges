@@ -17,7 +17,7 @@ public class sauceLabsChallenge {
 	public WebDriver driver;
 	browserInvoker bI = new browserInvoker();
 	geneMethods objInv;
-	public String Browser = "edge";
+	public String Browser = "firefox";
 	public String URL = "https://www.saucedemo.com/";
 	public int highPriceCount = 0;
 
