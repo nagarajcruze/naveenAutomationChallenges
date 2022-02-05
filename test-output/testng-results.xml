@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="7134" started-at="2022-02-05T11:15:40Z" finished-at="2022-02-05T11:15:47Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7134" started-at="2022-02-05T11:15:40Z" finished-at="2022-02-05T11:15:47Z">
+      <class name="codebase.TestScripts.sauceLabsChallenge">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:codebase.TestScripts.sauceLabsChallenge@e056f20]" name="setUp" is-config="true" duration-ms="5200" started-at="2022-02-05T16:45:40Z" finished-at="2022-02-05T16:45:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="challengeOne()[pri:0, instance:codebase.TestScripts.sauceLabsChallenge@e056f20]" name="challengeOne" duration-ms="1073" started-at="2022-02-05T16:45:45Z" finished-at="2022-02-05T16:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- challengeOne -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:codebase.TestScripts.sauceLabsChallenge@e056f20]" name="quit" is-config="true" duration-ms="843" started-at="2022-02-05T16:45:46Z" finished-at="2022-02-05T16:45:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- codebase.TestScripts.sauceLabsChallenge -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
